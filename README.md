@@ -1,2 +1,16 @@
-# PRODIGY_WD_03
-Interactive Tic-Tac-Toe Web Application built using HTML, CSS, and JavaScript. Features two-player gameplay, winner detection, draw detection, and game reset functionality.
+# PRODIGY_WD_03 - Tic Tac Toe
+
+## Features
+- Two Player Gameplay
+- Winner Detection
+- Draw Detection
+- Restart Game
+- Responsive Design
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## Author
+Supriya Nandile
